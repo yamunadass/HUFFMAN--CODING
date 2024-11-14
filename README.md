@@ -27,7 +27,7 @@ REGISTER NUMBER: 212223230248
 ```
 ### Get the input String
 ```python
-string = 'Darshani'
+string = 'Yamuna'
 class NodeTree(object):
     def __init__(self, left=None, right=None): 
         self.left = left
